@@ -10,11 +10,11 @@
     ],
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/omna-icon.png",
     "splash": {
-      "image": "./assets/images/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "image": "./assets/images/omna-splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#15495c"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
